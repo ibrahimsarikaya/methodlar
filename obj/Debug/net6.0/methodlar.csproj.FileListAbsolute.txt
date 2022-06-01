@@ -1,0 +1,15 @@
+C:\Derslerim\methodlar\bin\Debug\net6.0\methodlar.exe
+C:\Derslerim\methodlar\bin\Debug\net6.0\methodlar.deps.json
+C:\Derslerim\methodlar\bin\Debug\net6.0\methodlar.runtimeconfig.json
+C:\Derslerim\methodlar\bin\Debug\net6.0\methodlar.dll
+C:\Derslerim\methodlar\bin\Debug\net6.0\methodlar.pdb
+C:\Derslerim\methodlar\obj\Debug\net6.0\methodlar.csproj.AssemblyReference.cache
+C:\Derslerim\methodlar\obj\Debug\net6.0\methodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Derslerim\methodlar\obj\Debug\net6.0\methodlar.AssemblyInfoInputs.cache
+C:\Derslerim\methodlar\obj\Debug\net6.0\methodlar.AssemblyInfo.cs
+C:\Derslerim\methodlar\obj\Debug\net6.0\methodlar.csproj.CoreCompileInputs.cache
+C:\Derslerim\methodlar\obj\Debug\net6.0\methodlar.dll
+C:\Derslerim\methodlar\obj\Debug\net6.0\refint\methodlar.dll
+C:\Derslerim\methodlar\obj\Debug\net6.0\methodlar.pdb
+C:\Derslerim\methodlar\obj\Debug\net6.0\methodlar.genruntimeconfig.cache
+C:\Derslerim\methodlar\obj\Debug\net6.0\ref\methodlar.dll
